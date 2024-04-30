@@ -559,24 +559,21 @@ i{
        /*teardrop shape styling*/
         .scroll-arrow {
           position: fixed;
-          right: 26px;
-          bottom: 26px;
-          width: 46px;
-          height: 46px;
-          background: rgba(0, 0, 0, 0.66);
-          border-radius: 50%;
         }
 
         /*text styling*/
+        .fa-circle-arrow-up
+        {
+            font-size: 35px;
+        }
+
         #scroll-text{
-          color: white;
           position: fixed;
           right: 35px;
           bottom: 38px;
-          font-size: 19px;
           z-index: 10;
-          font-family: Arial, sans-serif;
-          font-weight: bold;
+          /* font-family: Arial, sans-serif;
+          font-weight: bold; */
         }
 
 
