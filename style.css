@@ -564,7 +564,7 @@ i{
         /*text styling*/
         .fa-circle-arrow-up
         {
-            font-size: 35px;
+            font-size: 20px;
         }
 
         #scroll-text{
@@ -687,6 +687,11 @@ footer p{
 {
     width: 100%;
 }
+
+.fa-circle-arrow-up
+        {
+            font-size: 35px;
+        }
 
 } 
 
