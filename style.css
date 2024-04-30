@@ -705,12 +705,17 @@ footer p{
         display: flex;
         position: sticky;
         justify-content: center;
-        gap: 20%;
+        gap: 40%;
         width: 100%;
         background: white;
         top: 0;
         left: 0;
         z-index: 1;
+    }
+
+    #desktop-nav .nav-links
+    {
+        font-size: 120%;
     }
 
     .logo
@@ -785,8 +790,8 @@ footer p{
 
     .profile-pic
     {
-        width: 35%;
-        height: 60%;
+        width: 500px;
+        height: 500px;
     }
 
    .section__text__p1, .section__text__p2, .title
