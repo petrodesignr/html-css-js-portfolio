@@ -605,8 +605,13 @@ footer p{
     }
 
     .profile-pic{
-        width: 45%;
-        height: 45%;
+        width: 400px;
+        height: 400px;
+    }
+
+    .section__text
+    {
+        padding: 0;
     }
 
     .details-container
@@ -722,8 +727,8 @@ footer p{
 
     .profile-pic
     {
-        width: 45%;
-        height: 60%;
+        width: 450px;
+        height: 450px;
     }
 
     .experience-container
