@@ -787,8 +787,13 @@ footer p{
 }
 
 
-@media screen and (min-width: 1024px) 
+@media screen and (min-width: 1440px) 
 {
+    #profile
+    {
+        padding-top: 15%;
+    }
+
     .profile-pic
     {
         width: 40%;
